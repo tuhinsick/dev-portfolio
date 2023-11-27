@@ -46,6 +46,7 @@ h1{
     display: flex;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
+    background-position: right;
 }
 
 .div2{
