@@ -1,5 +1,4 @@
 body{
-    margin: 100px 30px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -7,6 +6,33 @@ h1{
     font-size: 50px;
 }
 
+.sections{
+    display:flex;
+}
+
 .orange{
     color:chocolate
+}
+.blog{
+    text-align: justify;
+}
+
+.half-width{
+    padding: 5%;
+}
+     .half-width img{
+    margin-top: 100px;
+    width: 420px;
+    height: auto;
+}
+
+.button{
+    text-decoration: none;
+    background-position: 0cm;
+    border: 2px solid orange;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 20px;
+    color: white;
+    
 }
