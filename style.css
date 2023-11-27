@@ -23,7 +23,7 @@ h1{
 .half-width{
     padding: 5%;
 }
-     .half-width img{
+.half-width img{
     margin-top: 100px;
     width: 420px;
     height: auto;
@@ -39,4 +39,22 @@ h1{
     color: white;
     font-weight: 700;
     
+}
+
+.dream{
+    padding: 10px 100px;
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+
+.div2{
+    padding:5%;
+
+}
+
+.div2 img{
+    margin-top: 100px;
+    width: 420px;
+    height: auto;
 }
